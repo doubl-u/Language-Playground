@@ -1,0 +1,10 @@
+[
+    [
+        {"name": "Item1", "amount": 10},
+        {"name": "Item2", "amount": 20}
+    ],
+    [
+        {"name": "Item3", "amount": 30},
+        {"name": "Item4", "amount": 40}
+    ]
+]
