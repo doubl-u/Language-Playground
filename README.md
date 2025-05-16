@@ -1,5 +1,11 @@
-# Language-Playground
+# Language Playground 🛠️
 
-Current Language Interest in: 
-                          low_level = zig, 
-                          backend = go
+A sandbox for exploring programming languages, with current focus on:
+
+### 🔧 Systems/Low-Level
+- **Zig** - Memory safety, comptime, and bare-metal tinkering
+
+### ⚙️ Backend/Systems
+- **Go** - Concurrency, networking, and simplicity
+
+## Structure
